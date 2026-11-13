@@ -1,0 +1,92 @@
+[
+  {
+    "id": "JOB-001",
+    "title": "Senior Backend Engineer",
+    "description": "Build and maintain scalable services for a financial analytics platform.",
+    "technicalRequirements": [
+      "Design and develop REST APIs",
+      "Build distributed, fault-tolerant services",
+      "Write unit and integration tests",
+      "Participate in code reviews and system design"
+    ],
+    "techStack": ["Java", "Spring Boot", "PostgreSQL", "AWS", "Docker"],
+    "yoe": {
+      "minimum": 5,
+      "preferred": 7
+    },
+    "deadline": "2026-11-20",
+    "priority": "high"
+  },
+  {
+    "id": "JOB-002",
+    "title": "Frontend React Developer",
+    "description": "Develop accessible, responsive interfaces for a customer-facing web application.",
+    "technicalRequirements": [
+      "Build reusable UI components",
+      "Integrate frontend applications with REST APIs",
+      "Write component and end-to-end tests",
+      "Optimize performance and accessibility"
+    ],
+    "techStack": ["TypeScript", "React", "Next.js", "Jest", "Playwright"],
+    "yoe": {
+      "minimum": 3,
+      "preferred": 5
+    },
+    "deadline": "2026-11-12",
+    "priority": "medium"
+  },
+  {
+    "id": "JOB-003",
+    "title": "Data Engineer",
+    "description": "Create reliable data pipelines and analytics datasets for internal product teams.",
+    "technicalRequirements": [
+      "Develop batch and streaming data pipelines",
+      "Model and validate analytical datasets",
+      "Monitor pipeline quality and reliability",
+      "Collaborate with analysts and data scientists"
+    ],
+    "techStack": ["Python", "Apache Spark", "Airflow", "Snowflake", "AWS"],
+    "yoe": {
+      "minimum": 4,
+      "preferred": 6
+    },
+    "deadline": "2026-12-05",
+    "priority": "high"
+  },
+  {
+    "id": "JOB-004",
+    "title": "DevOps Engineer",
+    "description": "Improve deployment automation, infrastructure reliability, and observability.",
+    "technicalRequirements": [
+      "Maintain CI/CD pipelines",
+      "Manage cloud infrastructure as code",
+      "Implement monitoring and alerting",
+      "Support incident response and reliability improvements"
+    ],
+    "techStack": ["Kubernetes", "Terraform", "Azure", "GitHub Actions", "Prometheus"],
+    "yoe": {
+      "minimum": 4,
+      "preferred": 6
+    },
+    "deadline": "2026-11-30",
+    "priority": "medium"
+  },
+  {
+    "id": "JOB-005",
+    "title": "Machine Learning Engineer",
+    "description": "Deploy and maintain machine learning services for product recommendations.",
+    "technicalRequirements": [
+      "Prepare data and train machine learning models",
+      "Deploy models as production services",
+      "Monitor model performance and data drift",
+      "Collaborate with software and data engineering teams"
+    ],
+    "techStack": ["Python", "PyTorch", "scikit-learn", "FastAPI", "Docker"],
+    "yoe": {
+      "minimum": 3,
+      "preferred": 5
+    },
+    "deadline": "2026-12-15",
+    "priority": "low"
+  }
+]

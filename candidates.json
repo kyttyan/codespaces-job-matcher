@@ -1,0 +1,122 @@
+[
+  {
+    "id": "CAN-001",
+    "name": "Alex Morgan",
+    "jobTitle": "Backend Engineer",
+    "yoe": 7,
+    "techStack": ["Java", "Spring Boot", "PostgreSQL", "AWS", "Docker"],
+    "additionalSkills": ["REST APIs", "Microservices", "JUnit"],
+    "onProject": false,
+    "availabilityDate": "2026-10-26"
+  },
+  {
+    "id": "CAN-002",
+    "name": "Sam Rivera",
+    "jobTitle": "Frontend Engineer",
+    "yoe": 4,
+    "techStack": ["TypeScript", "React", "Next.js", "Jest", "Playwright"],
+    "additionalSkills": ["Accessibility", "CSS", "REST API integration"],
+    "onProject": false,
+    "availabilityDate": "2026-10-22"
+  },
+  {
+    "id": "CAN-003",
+    "name": "Taylor Chen",
+    "jobTitle": "Data Engineer",
+    "yoe": 6,
+    "techStack": ["Python", "Apache Spark", "Airflow", "Snowflake", "AWS"],
+    "additionalSkills": ["ETL", "Data Modeling", "SQL"],
+    "onProject": true,
+    "availabilityDate": "2026-12-01"
+  },
+  {
+    "id": "CAN-004",
+    "name": "Jordan Patel",
+    "jobTitle": "DevOps Engineer",
+    "yoe": 5,
+    "techStack": ["Kubernetes", "Terraform", "Azure", "GitHub Actions", "Prometheus"],
+    "additionalSkills": ["CI/CD", "Grafana", "Incident Response"],
+    "onProject": false,
+    "availabilityDate": "2026-11-02"
+  },
+  {
+    "id": "CAN-005",
+    "name": "Casey Brooks",
+    "jobTitle": "Machine Learning Engineer",
+    "yoe": 4,
+    "techStack": ["Python", "PyTorch", "scikit-learn", "FastAPI", "Docker"],
+    "additionalSkills": ["Model Deployment", "Pandas", "MLflow"],
+    "onProject": false,
+    "availabilityDate": "2026-10-29"
+  },
+  {
+    "id": "CAN-006",
+    "name": "Riley Thompson",
+    "jobTitle": "Full-Stack Engineer",
+    "yoe": 5,
+    "techStack": ["TypeScript", "React", "Node.js", "PostgreSQL", "AWS"],
+    "additionalSkills": ["REST APIs", "Docker", "Jest"],
+    "onProject": true,
+    "availabilityDate": "2027-01-05"
+  },
+  {
+    "id": "CAN-007",
+    "name": "Avery Kim",
+    "jobTitle": "Backend Engineer",
+    "yoe": 3,
+    "techStack": ["Python", "Django", "PostgreSQL", "Redis", "Docker"],
+    "additionalSkills": ["REST APIs", "Celery", "Pytest"],
+    "onProject": false,
+    "availabilityDate": "2026-10-22"
+  },
+  {
+    "id": "CAN-008",
+    "name": "Morgan Ellis",
+    "jobTitle": "Cloud Engineer",
+    "yoe": 8,
+    "techStack": ["AWS", "Terraform", "Kubernetes", "Python", "Prometheus"],
+    "additionalSkills": ["CI/CD", "Linux", "Cloud Security"],
+    "onProject": true,
+    "availabilityDate": "2026-11-16"
+  },
+  {
+    "id": "CAN-009",
+    "name": "Jamie Wilson",
+    "jobTitle": "Data Analyst",
+    "yoe": 5,
+    "techStack": ["Python", "SQL", "Snowflake", "Tableau", "Airflow"],
+    "additionalSkills": ["Data Visualization", "ETL", "Statistics"],
+    "onProject": false,
+    "availabilityDate": "2026-10-22"
+  },
+  {
+    "id": "CAN-010",
+    "name": "Drew Foster",
+    "jobTitle": "Frontend Engineer",
+    "yoe": 6,
+    "techStack": ["JavaScript", "React", "Vue.js", "Cypress", "Node.js"],
+    "additionalSkills": ["Design Systems", "Accessibility", "CSS"],
+    "onProject": true,
+    "availabilityDate": "2026-12-10"
+  },
+  {
+    "id": "CAN-011",
+    "name": "Quinn Davis",
+    "jobTitle": "Machine Learning Engineer",
+    "yoe": 2,
+    "techStack": ["Python", "scikit-learn", "Pandas", "FastAPI", "Docker"],
+    "additionalSkills": ["Data Cleaning", "Model Evaluation", "SQL"],
+    "onProject": false,
+    "availabilityDate": "2026-10-22"
+  },
+  {
+    "id": "CAN-012",
+    "name": "Skyler Adams",
+    "jobTitle": "Java Engineer",
+    "yoe": 9,
+    "techStack": ["Java", "Spring Boot", "Oracle", "Kafka", "AWS"],
+    "additionalSkills": ["Microservices", "System Design", "JUnit"],
+    "onProject": true,
+    "availabilityDate": "2027-02-01"
+  }
+]

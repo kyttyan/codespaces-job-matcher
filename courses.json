@@ -1,0 +1,302 @@
+[
+  {
+    "id": "COURSE-001",
+    "title": "Modern Java Fundamentals",
+    "category": "programming_language",
+    "skills": ["Java", "OOP", "Collections", "Exception Handling"],
+    "level": "beginner",
+    "estimatedHours": 18,
+    "description": "Learn core Java syntax, object-oriented programming, collections, and error handling.",
+    "preparesFor": ["Java Developer", "Backend Engineer"]
+  },
+  {
+    "id": "COURSE-002",
+    "title": "Advanced Java and Spring Boot",
+    "category": "programming_language",
+    "skills": ["Java", "Spring Boot", "REST APIs", "Dependency Injection"],
+    "level": "intermediate",
+    "estimatedHours": 24,
+    "description": "Build production-style services with Spring Boot, validation, and REST API patterns.",
+    "preparesFor": ["Java Developer", "Backend Engineer"]
+  },
+  {
+    "id": "COURSE-003",
+    "title": "Python Programming Essentials",
+    "category": "programming_language",
+    "skills": ["Python", "Data Structures", "Functions", "Modules"],
+    "level": "beginner",
+    "estimatedHours": 16,
+    "description": "Practice Python fundamentals, including functions, collections, modules, and file handling.",
+    "preparesFor": ["Python Developer", "Data Analyst", "Data Engineer"]
+  },
+  {
+    "id": "COURSE-004",
+    "title": "Python for Backend Development",
+    "category": "programming_language",
+    "skills": ["Python", "FastAPI", "REST APIs", "Pytest"],
+    "level": "intermediate",
+    "estimatedHours": 20,
+    "description": "Create and test web APIs using Python, FastAPI, and common backend development practices.",
+    "preparesFor": ["Backend Engineer", "Machine Learning Engineer"]
+  },
+  {
+    "id": "COURSE-005",
+    "title": "TypeScript for JavaScript Developers",
+    "category": "programming_language",
+    "skills": ["TypeScript", "Types", "Generics", "Modern JavaScript"],
+    "level": "beginner",
+    "estimatedHours": 12,
+    "description": "Add static typing to JavaScript projects and learn practical TypeScript patterns.",
+    "preparesFor": ["Frontend Engineer", "Full-Stack Engineer"]
+  },
+  {
+    "id": "COURSE-006",
+    "title": "React and TypeScript in Practice",
+    "category": "programming_language",
+    "skills": ["React", "TypeScript", "Hooks", "Component Testing"],
+    "level": "intermediate",
+    "estimatedHours": 22,
+    "description": "Build typed React components, manage state, and test user-facing features.",
+    "preparesFor": ["Frontend Engineer", "Full-Stack Engineer"]
+  },
+  {
+    "id": "COURSE-007",
+    "title": "JavaScript Essentials for Web Development",
+    "category": "programming_language",
+    "skills": ["JavaScript", "ES Modules", "Async Programming", "DOM"],
+    "level": "beginner",
+    "estimatedHours": 15,
+    "description": "Learn modern JavaScript syntax, asynchronous code, modules, and browser fundamentals.",
+    "preparesFor": ["Frontend Engineer", "Full-Stack Engineer"]
+  },
+  {
+    "id": "COURSE-008",
+    "title": "SQL Querying and Relational Database Design",
+    "category": "technical_skill",
+    "skills": ["SQL", "PostgreSQL", "Joins", "Database Design"],
+    "level": "beginner",
+    "estimatedHours": 14,
+    "description": "Write queries, use joins and aggregations, and understand relational database concepts.",
+    "preparesFor": ["Backend Engineer", "Data Analyst", "Data Engineer"]
+  },
+  {
+    "id": "COURSE-009",
+    "title": "Go Programming for Backend Services",
+    "category": "programming_language",
+    "skills": ["Go", "Concurrency", "HTTP Services", "Testing"],
+    "level": "intermediate",
+    "estimatedHours": 20,
+    "description": "Learn Go fundamentals and build small concurrent services with tests.",
+    "preparesFor": ["Backend Engineer", "Platform Engineer"]
+  },
+  {
+    "id": "COURSE-010",
+    "title": "C# and .NET Web API Fundamentals",
+    "category": "programming_language",
+    "skills": ["C#", ".NET", "REST APIs", "Entity Framework"],
+    "level": "beginner",
+    "estimatedHours": 20,
+    "description": "Create a basic web API with C# and .NET and connect it to a database.",
+    "preparesFor": ["Backend Engineer", "Full-Stack Engineer"]
+  },
+  {
+    "id": "COURSE-011",
+    "title": "Kotlin Fundamentals for JVM Developers",
+    "category": "programming_language",
+    "skills": ["Kotlin", "JVM", "Null Safety", "Functional Programming"],
+    "level": "beginner",
+    "estimatedHours": 14,
+    "description": "Learn Kotlin syntax and core language features for JVM-based development.",
+    "preparesFor": ["Backend Engineer", "Android Developer"]
+  },
+  {
+    "id": "COURSE-012",
+    "title": "Rust Basics and Memory Safety",
+    "category": "programming_language",
+    "skills": ["Rust", "Ownership", "Borrowing", "Error Handling"],
+    "level": "beginner",
+    "estimatedHours": 22,
+    "description": "Explore Rust syntax, ownership, borrowing, and safe error handling.",
+    "preparesFor": ["Systems Programmer", "Backend Engineer"]
+  },
+  {
+    "id": "COURSE-013",
+    "title": "Data Structures and Algorithms Interview Practice",
+    "category": "interview_preparation",
+    "skills": ["Algorithms", "Data Structures", "Problem Solving", "Complexity Analysis"],
+    "level": "intermediate",
+    "estimatedHours": 18,
+    "description": "Practice common coding interview problems and explain time and space complexity.",
+    "preparesFor": ["Software Engineer", "Backend Engineer", "Frontend Engineer"]
+  },
+  {
+    "id": "COURSE-014",
+    "title": "System Design Interview Foundations",
+    "category": "interview_preparation",
+    "skills": ["System Design", "Scalability", "Distributed Systems", "Trade-off Analysis"],
+    "level": "intermediate",
+    "estimatedHours": 16,
+    "description": "Learn a structured approach to discussing scalable systems and technical trade-offs.",
+    "preparesFor": ["Senior Engineer", "Backend Engineer", "Platform Engineer"]
+  },
+  {
+    "id": "COURSE-015",
+    "title": "Git, GitHub, and Collaborative Workflows",
+    "category": "technical_skill",
+    "skills": ["Git", "GitHub", "Branching", "Code Review"],
+    "level": "beginner",
+    "estimatedHours": 8,
+    "description": "Practice version control, pull requests, conflict resolution, and collaborative workflows.",
+    "preparesFor": ["All Software Roles"]
+  },
+  {
+    "id": "COURSE-016",
+    "title": "Automated Testing and Test-Driven Development",
+    "category": "technical_skill",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "Test Automation"],
+    "level": "intermediate",
+    "estimatedHours": 14,
+    "description": "Write maintainable tests and apply test-driven development to small features.",
+    "preparesFor": ["Software Engineer", "QA Engineer"]
+  },
+  {
+    "id": "COURSE-017",
+    "title": "Docker and Container Fundamentals",
+    "category": "technical_skill",
+    "skills": ["Docker", "Containers", "Images", "Docker Compose"],
+    "level": "beginner",
+    "estimatedHours": 10,
+    "description": "Package applications in containers and run multi-service development environments.",
+    "preparesFor": ["Backend Engineer", "DevOps Engineer", "Data Engineer"]
+  },
+  {
+    "id": "COURSE-018",
+    "title": "Kubernetes Essentials",
+    "category": "technical_skill",
+    "skills": ["Kubernetes", "Deployments", "Services", "Configuration"],
+    "level": "intermediate",
+    "estimatedHours": 16,
+    "description": "Understand Kubernetes workloads and practice deploying and configuring applications.",
+    "preparesFor": ["DevOps Engineer", "Platform Engineer"]
+  },
+  {
+    "id": "COURSE-019",
+    "title": "Terraform and Infrastructure as Code",
+    "category": "technical_skill",
+    "skills": ["Terraform", "Infrastructure as Code", "Cloud Infrastructure"],
+    "level": "intermediate",
+    "estimatedHours": 14,
+    "description": "Define and manage repeatable infrastructure with Terraform configuration and state.",
+    "preparesFor": ["DevOps Engineer", "Cloud Engineer"]
+  },
+  {
+    "id": "COURSE-020",
+    "title": "Practical Cloud Fundamentals",
+    "category": "technical_skill",
+    "skills": ["AWS", "Azure", "Cloud Computing", "Networking"],
+    "level": "beginner",
+    "estimatedHours": 12,
+    "description": "Learn core cloud concepts, common services, networking basics, and shared responsibility.",
+    "preparesFor": ["Cloud Engineer", "DevOps Engineer", "Backend Engineer"]
+  },
+  {
+    "id": "COURSE-021",
+    "title": "Data Pipelines with Python and Airflow",
+    "category": "technical_skill",
+    "skills": ["Python", "Airflow", "ETL", "Data Pipelines"],
+    "level": "intermediate",
+    "estimatedHours": 18,
+    "description": "Build scheduled data workflows and learn how to monitor pipeline execution.",
+    "preparesFor": ["Data Engineer", "Analytics Engineer"]
+  },
+  {
+    "id": "COURSE-022",
+    "title": "Introduction to Machine Learning with Python",
+    "category": "technical_skill",
+    "skills": ["Python", "scikit-learn", "Model Evaluation", "Machine Learning"],
+    "level": "beginner",
+    "estimatedHours": 20,
+    "description": "Train and evaluate introductory machine learning models using practical datasets.",
+    "preparesFor": ["Machine Learning Engineer", "Data Scientist"]
+  },
+  {
+    "id": "COURSE-023",
+    "title": "Clear Technical Communication",
+    "category": "soft_skill",
+    "skills": ["Written Communication", "Technical Explanation", "Audience Awareness"],
+    "level": "all_levels",
+    "estimatedHours": 6,
+    "description": "Practice explaining technical ideas clearly to both technical and non-technical audiences.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-024",
+    "title": "Behavioral Interview Preparation",
+    "category": "soft_skill",
+    "skills": ["Interviewing", "STAR Method", "Self-Reflection", "Communication"],
+    "level": "all_levels",
+    "estimatedHours": 5,
+    "description": "Prepare concise examples about work experience, collaboration, challenges, and outcomes.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-025",
+    "title": "Active Listening and Effective Collaboration",
+    "category": "soft_skill",
+    "skills": ["Active Listening", "Teamwork", "Feedback", "Collaboration"],
+    "level": "all_levels",
+    "estimatedHours": 4,
+    "description": "Improve listening, clarify assumptions, and collaborate constructively with teammates.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-026",
+    "title": "Giving and Receiving Constructive Feedback",
+    "category": "soft_skill",
+    "skills": ["Feedback", "Communication", "Professional Development"],
+    "level": "all_levels",
+    "estimatedHours": 4,
+    "description": "Learn practical ways to give specific feedback and respond productively to suggestions.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-027",
+    "title": "Time Management and Prioritization",
+    "category": "soft_skill",
+    "skills": ["Prioritization", "Planning", "Time Management"],
+    "level": "all_levels",
+    "estimatedHours": 5,
+    "description": "Use simple planning techniques to manage competing tasks and communicate priorities.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-028",
+    "title": "Problem Solving and Critical Thinking",
+    "category": "soft_skill",
+    "skills": ["Critical Thinking", "Root Cause Analysis", "Decision Making"],
+    "level": "all_levels",
+    "estimatedHours": 6,
+    "description": "Break ambiguous problems into manageable parts and explain decisions using evidence.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-029",
+    "title": "Conflict Resolution for Technical Teams",
+    "category": "soft_skill",
+    "skills": ["Conflict Resolution", "Negotiation", "Empathy", "Teamwork"],
+    "level": "all_levels",
+    "estimatedHours": 5,
+    "description": "Handle disagreements professionally and work toward practical, shared outcomes.",
+    "preparesFor": ["All Roles"]
+  },
+  {
+    "id": "COURSE-030",
+    "title": "Presentation Skills for Technical Professionals",
+    "category": "soft_skill",
+    "skills": ["Public Speaking", "Presentation", "Storytelling", "Technical Communication"],
+    "level": "all_levels",
+    "estimatedHours": 6,
+    "description": "Structure and deliver clear presentations about technical projects and proposals.",
+    "preparesFor": ["All Roles"]
+  }
+]
